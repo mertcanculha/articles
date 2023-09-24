@@ -1,0 +1,184 @@
+{
+    "makaleler": [
+        {
+            "id": 1,
+            "başlık": "Yapay Zeka ve Otomasyon",
+            "özet": "Bu makalede, yapay zekanın iş dünyasında otomasyon süreçlerine nasıl entegre edildiği incelenmektedir.",
+            "yayın_tarihi": "2023-08-09"
+        },
+        {
+            "id": 2,
+            "başlık": "Veri Madenciliği ve Kişisel Gizlilik",
+            "özet": "Veri madenciliği tekniklerinin gizlilik konularıyla nasıl dengelediği üzerine bir inceleme.",
+            "yayın_tarihi": "2023-08-10"
+        },
+        {
+            "id": 3,
+            "başlık": "Dijital Dönüşümün İş Stratejilerine Etkisi",
+            "özet": "Dijital dönüşümün işletmelerin stratejilerine nasıl etki ettiğini anlatan bir analiz.",
+            "yayın_tarihi": "2023-08-11"
+        },
+        {
+            "id": 4,
+            "başlık": "E-ticaret Trends",
+            "özet": "E-ticaret alanındaki güncel trendler ve gelecek öngörüleri.",
+            "yayın_tarihi": "2023-08-12"
+        },
+        {
+            "id": 5,
+            "başlık": "Siber Güvenlikte Yeni Zorluklar",
+            "özet": "Siber güvenlik uzmanlarının karşılaştığı yeni ve gelişen tehditler.",
+            "yayın_tarihi": "2023-08-13"
+        },
+        {
+            "id": 6,
+            "başlık": "Nesnelerin İnterneti Uygulamaları",
+            "özet": "Nesnelerin İnterneti teknolojisinin çeşitli uygulama alanları.",
+            "yayın_tarihi": "2023-08-14"
+        },
+        {
+            "id": 7,
+            "başlık": "Yenilikçilik ve Rekabet Avantajı",
+            "özet": "Yenilikçilik stratejilerinin işletmelerin rekabet avantajını nasıl artırdığı.",
+            "yayın_tarihi": "2023-08-15"
+        },
+        {
+            "id": 8,
+            "başlık": "Büyük Veri Analitiğinin Endüstriyel Kullanımı",
+            "özet": "Büyük veri analitiği yöntemlerinin endüstriyel süreçlerde nasıl kullanıldığına dair bir inceleme.",
+            "yayın_tarihi": "2023-08-16"
+        },
+        {
+            "id": 9,
+            "başlık": "Eğitimde Teknoloji Entegrasyonu",
+            "özet": "Eğitim sektöründe teknolojinin sınıflara entegrasyonunun avantajları ve zorlukları.",
+            "yayın_tarihi": "2023-08-17"
+        },
+        {
+            "id": 10,
+            "başlık": "Dijital Pazarlama Stratejileri",
+            "özet": "Dijital pazarlama kampanyalarının etkili stratejileri ve başarı hikayeleri.",
+            "yayın_tarihi": "2023-08-18"
+        },
+        {
+            "id": 11,
+            "başlık": "Enerji Verimliliği ve Sürdürülebilirlik",
+            "özet": "Endüstride enerji verimliliği çözümlerinin sürdürülebilirlik hedefleriyle nasıl uyumlu olduğu.",
+            "yayın_tarihi": "2023-08-19"
+        },
+        {
+            "id": 12,
+            "başlık": "Blockchain Teknolojisinin Geleceği",
+            "özet": "Blockchain'in gelecekteki olası kullanım alanları ve potansiyel etkileri.",
+            "yayın_tarihi": "2023-08-20"
+        },
+        {
+            "id": 13,
+            "başlık": "Sağlık Hizmetlerinde Dijital Dönüşüm",
+            "özet": "Sağlık sektöründeki dijital dönüşümün hasta bakımı ve yönetimine etkileri.",
+            "yayın_tarihi": "2023-08-21"
+        },
+        {
+            "id": 14,
+            "başlık": "Yapay Zeka Destekli Yaratıcılık",
+            "özet": "Yapay zekanın sanatsal ve yaratıcı süreçlerde nasıl kullanıldığına dair bir inceleme.",
+            "yayın_tarihi": "2023-08-22"
+        },
+        {
+            "id": 15,
+            "başlık": "Kuantum Bilgisayarların Gücü",
+            "özet": "Kuantum bilgisayarların karmaşık hesaplamalar ve veri analitiği alanındaki potansiyeli.",
+            "yayın_tarihi": "2023-08-23"
+        },
+        {
+            "id": 16,
+            "başlık": "Dijital Eğilimler ve Tüketici Davranışı",
+            "özet": "Dijital platformlardaki trendlerin tüketici davranışlarına etkileri üzerine bir analiz.",
+            "yayın_tarihi": "2023-08-24"
+        },
+        {
+            "id": 17,
+            "başlık": "Geleceğin Ulaşım Teknolojileri",
+            "özet": "Otonom araçlar, hava taksi projeleri ve geleceğin ulaşım vizyonu.",
+            "yayın_tarihi": "2023-08-25"
+        },
+        {
+            "id": 18,
+            "başlık": "Yapay Zeka ve İş Gücü Dönüşümü",
+            "özet": "Yapay zekanın iş gücündeki rolleri ve dönüşüm süreçlerine etkileri.",
+            "yayın_tarihi": "2023-08-26"
+        },
+        {
+            "id": 19,
+            "başlık": "Tarımın Dijital Dönüşümü",
+            "özet": "Tarım sektöründeki dijital teknolojilerin verimlilik ve sürdürülebilirlik üzerine etkileri.",
+            "yayın_tarihi": "2023-08-27"
+        },
+        {
+            "id": 20,
+            "başlık": "Sanal Gerçeklik Uygulamaları",
+            "özet": "Sanal gerçeklik teknolojisinin eğitimden eğlenceye kadar çeşitli uygulama alanları.",
+            "yayın_tarihi": "2023-08-28"
+        },
+        {
+            "id": 21,
+            "başlık": "Yapay Zeka ve Hukuk Sistemi",
+            "özet": "Yapay zekanın hukuk alanındaki kullanımı ve etik sorunları.",
+            "yayın_tarihi": "2023-08-29"
+        },
+        {
+            "id": 22,
+            "başlık": "Sosyal Medya Analitiği",
+            "özet": "Sosyal medya verilerinin analiz edilerek trendlerin ve duygusal tepkilerin anlaşılması.",
+            "yayın_tarihi": "2023-08-30"
+        },
+        {
+            "id": 23,
+            "başlık": "E-spor ve Rekabetçi Oyunlar",
+            "özet": "E-sporun büyümesi, oyuncu profilleri ve küresel turnuvaların etkisi.",
+            "yayın_tarihi": "2023-08-31"
+        },
+        {
+            "id": 24,
+            "başlık": "Yapay Zeka Tabanlı Tıbbi Teşhis",
+            "özet": "Yapay zeka algoritmalarının hastalık teşhisindeki potansiyeli ve güçlükler.",
+            "yayın_tarihi": "2023-09-01"
+        },
+        {
+            "id": 25,
+            "başlık": "E-ticaret ve Kullanıcı Deneyimi",
+            "özet": "E-ticaret platformlarında kullanıcı deneyiminin önemi ve geliştirme stratejileri.",
+            "yayın_tarihi": "2023-09-02"
+        },
+        {
+            "id": 26,
+            "başlık": "Robotik Süreç Otomasyonu",
+            "özet": "İş süreçlerindeki robotik otomasyonun verimlilik ve hata oranlarına etkileri.",
+            "yayın_tarihi": "2023-09-03"
+        },
+        {
+            "id": 27,
+            "başlık": "Yapay Zeka ve Etiği",
+            "özet": "Yapay zekanın etik meseleleri, otomasyonun toplumsal ve etik etkileri.",
+            "yayın_tarihi": "2023-09-04"
+        },
+        {
+            "id": 28,
+            "başlık": "Kripto Paraların Geleceği",
+            "özet": "Kripto paraların finansal sistemdeki rolü, benimsenme süreçleri ve düzenlemeler.",
+            "yayın_tarihi": "2023-09-05"
+        },
+        {
+            "id": 29,
+            "başlık": "Yapay Zeka ile Müzik Üretimi",
+            "özet": "Yapay zeka algoritmalarının müzik besteleme ve üretiminde kullanımı.",
+            "yayın_tarihi": "2023-09-06"
+        },
+        {
+            "id": 30,
+            "başlık": "Uzaktan Çalışmanın Geleceği",
+            "özet": "Teknolojinin ilerlemesiyle uzaktan çalışmanın yaygınlaşması ve iş kültürüne etkileri.",
+            "yayın_tarihi": "2023-09-07"
+        }
+    ]
+}
